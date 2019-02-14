@@ -1,4 +1,4 @@
 # Ekush
 
-database will be available on 21st February 2019.
-Thanks for the patience.
+To download and know more about the dataset visit: 
+https://shahariarrabby.github.io/ekush
